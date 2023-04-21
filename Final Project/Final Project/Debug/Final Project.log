@@ -1,0 +1,92 @@
+﻿  Source.cpp
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(54,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(55,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(367,21): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(367,52): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(372,20): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(372,51): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(378,21): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(378,52): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(383,21): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(383,52): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(388,20): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(388,51): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(393,20): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(393,51): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(399,21): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(399,52): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(404,20): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(404,51): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(1154,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(1610,19): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(1621,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(1622,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(1627,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(1628,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(1630,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Final Project\Source.cpp(1631,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Final Project.vcxproj -> C:\Users\nicho\OneDrive\Documents\SNHU Courses\CS-330\Final Project\Debug\Final Project.exe
