@@ -1,2 +1,10 @@
 # CS-330-Computer-Graphics-And-Visualization
 Repository for my SNHU CS-330: Computer Graphics and Visualization final project
+# Portfolio Reflection
+I certainly learned quite a few new design skills in this class. I'd never touched on computer graphics before so all of the curriculum was new to me. My work on the project taught me that I needed to plan things differently when working with graphics. There was a lot that I was unfamiliar with, so I needed to allow for a lot more time in each step of the development process in case something went wrong.
+The design process I followed for my project was to mainly follow along with the assignments and complete what I needed to. I would then fill out the gaps in between the assignments.
+I think the main design approach could be used for future work if I need to create some sort of simulation in the future.
+The main strategies I used when designing my 3D scene was to work from the base up. I started by creating a vertex data array that would create a whole cube, but after learning about textures I swapped the cube vertex data array for a square vertex data array and used duplication to make the necessary shapes.
+Iteration factored into my project by how I made the shapes in my scene. I first made the square vertex data array and duplicated all the shapes that required a square. Then, I made the pyramid vertex data array for the tea bottle, and the cylinder vertex data array for everything else.
+My approach evolved through the milestones as I grew more familiar and comfortable with my own code. Once I got the hang of the way textures worked, it wasn't necessarily smooth sailing, but it was less anxiety-inducing.
+This course has given me new knowledge and skills that will be useful in my future educational and professional pathways. I'll be much more familiar with the work that goes into making visualizations and simulations with the work I hope to do in software development. I will also be more comfortable with using code and covering topics that I'm unfamiliar and uncomfortable with.
